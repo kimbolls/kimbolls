@@ -1,5 +1,5 @@
 <div align="center">
-## Hi there, Welcome to my Github Profile!  
+<h1> Hi there, Welcome to my Github Profile!  </h1>
 <h2>🌱 I mostly work with ... </h2> 
   <br>C++ 
   <br>C#
