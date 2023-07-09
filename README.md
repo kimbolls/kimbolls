@@ -1,13 +1,13 @@
 <div align="center">
 <h1> Hi there, Welcome to my Github Profile!  </h1>
 <h2>🌱 I mostly work with ... </h2> 
-  <br>C++ 
-  <br>C#
-  <br> Figma
+  C++ <br>
+  C#<br>
+   Figma
 <h2>⚡ My passion  </h2> 
-  <br>Video Game Development
-  <br>UI/UX Design
-  <br>Frontend Development
+  Video Game Development<br>
+  UI/UX Design<br>
+  Frontend Development
 </div>
 <!--
 **kimbolls/kimbolls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
