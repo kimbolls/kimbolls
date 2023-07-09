@@ -1,10 +1,10 @@
 <div align="center">
-<h2> Hi there, Welcome to my Github Profile! </h2> 
-<a> 🌱 I mostly work with ... </a>
+## Hi there, Welcome to my Github Profile!  
+<h2> 🌱 I mostly work with ... </h2> 
   <br>C++ 
   <br>C#
   <br> Figma
-<a> ⚡ My passion </a>
+<h2>⚡ My passion  </h2> 
   <br> Video Game Development
   <br> UI/UX Design
   <br> Frontend Development
