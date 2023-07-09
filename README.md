@@ -11,7 +11,7 @@
 
 
 <h2>🔭Projects I have worked on </h2>
-<a href="https://github.com/kimbolls/Roundstars-Play"> Roundstars </a>
+<a href="https://github.com/kimbolls/Roundstars-Play"> Roundstars : 2d Platformer Shooter Educational Game </a>
 </div>
 <!--
 **kimbolls/kimbolls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
