@@ -1,7 +1,8 @@
 <div align="center">
 <h2> Hi there, Welcome to my Github Profile! </h2> 
-🌱 I’m currently learning ...
-https://commons.wikimedia.org/wiki/File:Figma-logo.svg
+<a> 🌱 I’m currently learning ... </a>
+C++ <br>
+C#
 </div>
 <!--
 **kimbolls/kimbolls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
