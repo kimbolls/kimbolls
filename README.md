@@ -1,11 +1,16 @@
 <div align="center">
 <h1> Hi there, Welcome to my Github Profile!  </h1>
-<h2>🌱 I mostly work with ... </h2> 
+<h2>🔨 I mostly work with ... </h2> 
   C++ <br>
   C#<br>
   Figma <br>
   Adobe XD
 
+  <h2>🌱 I am currently learning ... </h2>
+  React.js <br>
+  Python <br>
+  Java 
+  
 <h2>⚡ My passion  </h2> 
   Video Game Development<br>
   UI/UX Design<br>
