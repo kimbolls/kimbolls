@@ -23,7 +23,7 @@
 
 <h2> Some UI Designs I made</h2>
 <a href=" ![Youtube Video – 1](https://github.com/kimbolls/kimbolls/assets/42145771/f7421b6b-7567-4d3e-9e62-d4a4b38b56ac)" /a> <br>
-<a> ![RunSho](https://github.com/kimbolls/kimbolls/assets/42145771/03329794-caba-489d-801c-6b114940e191)</a> <br>
+![RunSho](https://github.com/kimbolls/kimbolls/assets/42145771/03329794-caba-489d-801c-6b114940e191)
 <a> ![Binus1](https://github.com/kimbolls/kimbolls/assets/42145771/147a6ec7-7aee-4b1f-8809-c0b3ffa5b950)</a>
 </div>
 <!--
