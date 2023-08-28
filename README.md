@@ -19,7 +19,7 @@
 <h2>🔭Projects I have worked on </h2>
 <a href="https://github.com/kimbolls/Roundstars-Play"> Roundstars : Unity 2d Platformer Shooter Educational Game </a> <br>
 <a href="https://github.com/kimbolls/Cubeman-The-Game-PLAY-"> Cubeman The Game : Unity 2d Platformer Shooter Game </a> <br>
-![Binus1](https://github.com/kimbolls/kimbolls/assets/42145771/dd664114-416d-4578-beba-86d6c731b099)
+
 
 
 <!--
