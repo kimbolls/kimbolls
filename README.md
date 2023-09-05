@@ -9,6 +9,8 @@
   <h2>🌱 I am currently learning ... </h2>
   React.js <br>
   Python <br>
+  MongoDB <br>
+  NodeJs <br>
   Java 
   
 <h2>⚡ My passion  </h2> 
